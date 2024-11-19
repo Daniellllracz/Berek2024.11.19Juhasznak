@@ -1,0 +1,14 @@
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\bin\Debug\net8.0\Berek.exe
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\bin\Debug\net8.0\Berek.deps.json
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\bin\Debug\net8.0\Berek.runtimeconfig.json
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\bin\Debug\net8.0\Berek.dll
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\bin\Debug\net8.0\Berek.pdb
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.AssemblyInfoInputs.cache
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.AssemblyInfo.cs
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.dll
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\refint\Berek.dll
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.pdb
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\Berek.genruntimeconfig.cache
+C:\Users\Ny19RáczD\source\repos\Berek\Berek\obj\Debug\net8.0\ref\Berek.dll
