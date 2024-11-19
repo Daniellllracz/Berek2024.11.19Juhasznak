@@ -1,0 +1,1 @@
+# Berek2024.11.19Juhasznak
